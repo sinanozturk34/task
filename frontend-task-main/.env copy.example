@@ -1,0 +1,4 @@
+VITE_APP_SCHIPHOL_KEY=5a38090c7d9e10ad2d22585d20d5ab82
+VITE_APP_SCHIPHOL_ID=8d5cde6d
+VITE_APP_SCHIPHOL_URL=https://api.schiphol.nl/public-flights/
+VITE_APP_API_URL: http://localhost:3000/api/v1
